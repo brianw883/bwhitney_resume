@@ -1,86 +1,100 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Brian Whitney's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Brian Whitney
+Economist specializing in data science
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href=" www.linkedin.com/in/brian-whitney001"> www.linkedin.com/in/brian-whitney001</a>
+| <a href="https://github.com/brianw883/bwhitney_resume.git">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`2021-Present`
 __Brigham Young University - Idaho__, Rexburg, ID
+- Bachelor of Science Economics
+- Studied economics with emphasis in statistics
+- Certificate in Data Science
+- 3.61 GPA
 
-- 4.0 Major GPA
+## Skills
 
+- R Programming
+- Python: pandas, scikit-learn, numpy
+- Excel
+- Data Analysis
+- Technical Writing
+- Brazilian Portuguese (Advanced)
 
-## Related Experience
+## Experience
 
-### Internships
+### Packager
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`September 2022 - April 2023`
+__Bay Tek Entertainment__, Pulaski, WI
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Cooperated with Supply Chain, Inventory and Quality Control employees in preparing finished products for clients, meeting each
+customer's unique build requirements and shipping specifications
+- Devised correct packaging procedures for nearly two dozen different products, selecting proper pallet sizes and configurations, using
+proper equipment to move products, and building shipping cribs and supports
+- Met or exceeded production quotas, ensuring hundreds of finished products shipped on time to customers despite frequent supply
+chain shortages and production rework
 
-### Data Science Lead
+### Grave Shift Operator
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`May 2022 - July 2022`
+__AvantGuard Monitoring__, Rexburg, ID
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+- Responded to thousands of emergency medical alarms of subscribers needing assistance nationwide
+- Acted in accordance with several step-by-step protocols in responding to specific alarm types
+- Dispatched police and emergency medical services, clearly communicating important medical and situational information to responders
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+### Warehouse Worker
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+`October 2020 - August 2021`
+__United Parcel Service__, Green Bay, WI
 
-### Data Science Consulting Team
+- Loaded package trucks with boxes and parcels quickly to meet daily quota
+- Handled hundreds of heavy packages every day through learning and practicing new movement techniques
+- Developed techniques in new load responsibility, creating a new position responsible for shipping over 500 large packages daily
+- Learned new computer logistical tracking system and used handheld scanners to manage inventory and loading sequence for dozens of
+loads and positions
 
-`January 2027 - April 2027`
-__Imagine Learning__
+### IT Intern
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
+`August 2017 - July 2019`
+__Bay Tek Entertainment__, Pulaski, WI
 
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
+- Maintained inventory of end-user devices, network infrastructure, and network devices for 200 employees
+- Repaired and restored damaged and malfunctioning computer systems to uphold efficiency standards in manufacturing firm of over
+100 workstations
+- Communicated continually with end-users and co-workers, maintaining personal and departmental professional conduct over email,
+phone, and in-person meetings and presentations
+- Undertook company-wide software auditing project for over 500 device to assess total technology expenses and sustain budget
+standards and operating efficiency
+- Answered daily help requests for technology issues such as network connectivity, printer functionality, software updates and
+management, hardware repairs, and general maintenance and cleaning
 
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+## Leadership
 
+### Economics Society
 
-## Service and Work History
+`April 2023 - Present`
+__Vice President__, Rexburg, ID
 
-`2025-2027`
-__Math Tutor__, LDSBC
+- Acted as president of society in president's absence, holding responsibility for organizing and leading meetings
+- Developed schedules and agendas for weekly meetings and activities
 
+`January 2022 - July 2022`
+__President__, Rexburg, ID
 
-`2023-2025`
-__Service Missionary__, South Africa
-
-
+- Coordinated with faculty advisors to hold weekly meetings and attract students to membership
+- Created surveys to gauge student body interest and understand target membership demographic
+- Scheduled and led meetings, assigning members and advisors tasks, making each meeting interesting and fun
 
 <!-- ### Footer
 
